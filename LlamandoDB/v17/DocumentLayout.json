@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD658E8E-665F-401A-A84C-614452B85E19}|LlamandoDB.csproj|C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD658E8E-665F-401A-A84C-614452B85E19}|LlamandoDB.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD658E8E-665F-401A-A84C-614452B85E19}|LlamandoDB.csproj|C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD658E8E-665F-401A-A84C-614452B85E19}|LlamandoDB.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD658E8E-665F-401A-A84C-614452B85E19}|LlamandoDB.csproj|c:\\users\\aprendiz\\desktop\\visual code\\llamandodb\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD658E8E-665F-401A-A84C-614452B85E19}|LlamandoDB.csproj|solutionrelative:usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\UsuarioDAL.cs",
+              "RelativeDocumentMoniker": "UsuarioDAL.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\UsuarioDAL.cs",
+              "RelativeToolTip": "UsuarioDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:59:18.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\conexion.cs",
+              "RelativeDocumentMoniker": "conexion.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\conexion.cs",
+              "RelativeToolTip": "conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:59:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Visual code\\LlamandoDB\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:07:03.31Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
